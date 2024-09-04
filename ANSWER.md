@@ -71,4 +71,4 @@ Some techniques could include:
 
 **7. UML Diagram for SBRU Current Workflow**
 
-![UML Diagram](UML.png)
+![UML Diagram](images/UML.png)
