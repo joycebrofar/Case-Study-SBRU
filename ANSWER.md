@@ -71,4 +71,13 @@ Some techniques could include:
 
 **7. UML Diagram for SBRU Current Workflow**
 
-![UML Diagram](images/UML.png)
+![UML Diagram](https://github.com/joycebrofar/Case-Study-SBRU/blob/Sample-Answer/UML.png)
+
+
+# References
+
+Indeed Editorial Team. (2023, January 16). What Is System Analysis and Design? (Plus Benefits). Indeed. Retrieved March 01, 2023, from https://www.indeed.com/career-advice/career-development/what-is-system-analysis-and-design
+
+Institute, P. M. (2021). A Guide to the Project Management Body of Knowledge (Pmbok(r) Guide) - Seventh Edition. Pmbok(r) Guide.
+
+Mwiinga, Preston. (2023). system analysis and design stakeholders. 10.13140/RG.2.2.35730.43209.
